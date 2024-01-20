@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Forgot_pass,Chrome 120.0.0.0,,,20-01-2024 22:04:33,20-01-2024 22:04:52,19.448s,PASSED
+,,,,,,,
+Test Cases/Amazon_Forgot_pass/Amazon_Forgot_pass,Chrome 120.0.0.0,,,20-01-2024 22:04:33,20-01-2024 22:04:52,19.206s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 22:04:33,20-01-2024 22:04:36,2.884s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 22:04:36,20-01-2024 22:04:41,4.825s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,20-01-2024 22:04:41,20-01-2024 22:04:44,3.294s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Amazon Sign In/input_email""), ""9014256112"")",Chrome 120.0.0.0,,,20-01-2024 22:04:44,20-01-2024 22:04:46,1.561s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,20-01-2024 22:04:46,20-01-2024 22:04:48,1.793s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Amazon Sign In/a_Forgot Password_1""))",Chrome 120.0.0.0,,,20-01-2024 22:04:48,20-01-2024 22:04:50,1.876s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Amazon Password Assistance/inputcontinue""))",Chrome 120.0.0.0,,,20-01-2024 22:04:50,20-01-2024 22:04:52,2.334s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,20-01-2024 22:04:52,20-01-2024 22:04:52,0.337s,PASSED

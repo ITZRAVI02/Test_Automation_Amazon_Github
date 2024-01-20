@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mens Fashion</name>
+   <tag></tag>
+   <elementGuidId>88e5b23c-03c4-44e5-9a64-1a42604dfe01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[17]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(17) > a.hmenu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>23f0c9b7-ba0d-442c-97ab-ef67524b6e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>9ea411f7-5ab3-448a-8cb4-db1f24f700ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-id</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>d55367d3-3627-4a91-b8f2-c47c0c460b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref-tag</name>
+      <type>Main</type>
+      <value>nav_em_1_1_1_15</value>
+      <webElementGuid>4449c89f-323c-4548-a7f4-1d168fc24fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men's Fashion</value>
+      <webElementGuid>e4ea4f22-caa0-4a2f-a109-18e2522da284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible hmenu-translateX&quot;]/li[17]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>e4008ce1-efd0-4afd-b6bc-74c90df27b53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[17]/a</value>
+      <webElementGuid>980badca-5c71-4728-99f1-4d23a85e6fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[346]</value>
+      <webElementGuid>2a5e9358-3337-4565-ae8d-747e20f11b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[17]/a</value>
+      <webElementGuid>1dc3b20b-e758-49b7-b5cf-03b10e2c244f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Fashion&quot;) or . = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Fashion&quot;))]</value>
+      <webElementGuid>4a85da21-5189-4ba3-ae4c-f2e3bf188ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_signup_password_001,Chrome 120.0.0.0,,,20-01-2024 20:06:00,20-01-2024 20:06:44,44.081s,FAILED
+,,,,,,,
+Test Cases/Amazon_signup_password_001/Amazon_signup_password_001,Chrome 120.0.0.0,,,20-01-2024 20:06:00,20-01-2024 20:06:44,43.856s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 20:06:00,20-01-2024 20:06:05,4.590s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 20:06:05,20-01-2024 20:06:12,7.390s,PASSED
+"click(findTestObject(""Object Repository/Amazon_signup/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,20-01-2024 20:06:12,20-01-2024 20:06:44,31.563s,FAILED

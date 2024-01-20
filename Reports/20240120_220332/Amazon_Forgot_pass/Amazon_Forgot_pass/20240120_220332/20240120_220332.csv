@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Forgot_pass,Chrome 120.0.0.0,,,20-01-2024 22:03:37,20-01-2024 22:04:21,43.860s,FAILED
+,,,,,,,
+Test Cases/Amazon_Forgot_pass/Amazon_Forgot_pass,Chrome 120.0.0.0,,,20-01-2024 22:03:38,20-01-2024 22:04:21,43.642s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 22:03:38,20-01-2024 22:03:44,6.459s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 22:03:44,20-01-2024 22:03:49,4.592s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Forgot_pass_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 120.0.0.0,,,20-01-2024 22:03:49,20-01-2024 22:04:21,32.247s,FAILED

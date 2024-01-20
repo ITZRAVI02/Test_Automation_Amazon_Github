@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_order_item,Chrome 120.0.0.0,,,20-01-2024 22:00:38,20-01-2024 22:02:24,1m - 45.956s,FAILED
+,,,,,,,
+Test Cases/Amazon_order_item/Amazon_order_item,Chrome 120.0.0.0,,,20-01-2024 22:00:38,20-01-2024 22:02:24,1m - 45.745s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 22:00:38,20-01-2024 22:00:42,3.852s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 22:00:42,20-01-2024 22:00:50,8.087s,PASSED
+"click(findTestObject(""Object Repository/Amazon_order_item/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 120.0.0.0,,,20-01-2024 22:00:50,20-01-2024 22:00:54,4.141s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_order_item/Page_Amazon Sign In/input_email""), ""9014256112"")",Chrome 120.0.0.0,,,20-01-2024 22:00:54,20-01-2024 22:00:57,2.641s,PASSED
+"click(findTestObject(""Object Repository/Amazon_order_item/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,20-01-2024 22:00:57,20-01-2024 22:01:00,2.771s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazon_order_item/Page_Amazon Sign In/input_password""), ""1Jx5G2o+w9Dv6alJbP1y5w=="")",Chrome 120.0.0.0,,,20-01-2024 22:01:00,20-01-2024 22:01:01,0.778s,PASSED
+"click(findTestObject(""Object Repository/Amazon_order_item/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,20-01-2024 22:01:01,20-01-2024 22:01:01,0.517s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_order_item/Page_Online Shopping site in India Shop Onl_10c5f3/input_field-keywords""), ""keyboard"")",Chrome 120.0.0.0,,,20-01-2024 22:01:01,20-01-2024 22:01:15,14.208s,PASSED
+"click(findTestObject(""Object Repository/Amazon_order_item/Page_Amazon.in  keyboard/span_HP K160 Wireless KeyboardQuick Comfy a_000055""))",Chrome 120.0.0.0,,,20-01-2024 22:01:15,20-01-2024 22:01:37,21.679s,PASSED
+"switchToWindowTitle(""Amazon.in: Buy HP K160 Wireless Keyboard/Quick Comfy accurate/12 Fn Shortcut Keys/Plug and Play USB/ 3 Years Warranty, Black Online at Low Prices in India | HP Reviews & Ratings"")",Chrome 120.0.0.0,,,20-01-2024 22:01:37,20-01-2024 22:02:24,46.765s,FAILED

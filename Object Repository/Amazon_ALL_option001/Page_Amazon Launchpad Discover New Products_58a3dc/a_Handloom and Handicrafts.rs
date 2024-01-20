@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Handloom and Handicrafts</name>
+   <tag></tag>
+   <elementGuidId>fc83696e-efbf-457b-938c-bdd52a4c805b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[25]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(25) > a.hmenu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cdb78529-2604-4f2c-a1cd-d35f8d15c732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/browse.html?node=16676064031&amp;ref_=nav_em_nav_amazon_karigar_0_1_1_28</value>
+      <webElementGuid>a2fe0519-a93f-4997-9aea-c15e66c24605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>2595de72-a2ca-45d2-a89b-25dfc861ab17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Handloom and Handicrafts</value>
+      <webElementGuid>a3ce0ccf-9c4d-4dab-b769-dcc5a386bc56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[25]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>50a6cf9e-6690-43f4-9d12-14ec133e206b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[25]/a</value>
+      <webElementGuid>5cf2a16b-fc27-4340-9e18-ed8fdc3fe888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Handloom and Handicrafts')]</value>
+      <webElementGuid>68d5bd9a-0b58-499c-a728-e753f0ddf081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/browse.html?node=16676064031&amp;ref_=nav_em_nav_amazon_karigar_0_1_1_28')]</value>
+      <webElementGuid>f2aa5fed-65a9-4fdb-9198-ffe62b22938f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[25]/a</value>
+      <webElementGuid>762a6a8e-d710-424d-bf09-551af222621f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/browse.html?node=16676064031&amp;ref_=nav_em_nav_amazon_karigar_0_1_1_28' and (text() = 'Handloom and Handicrafts' or . = 'Handloom and Handicrafts')]</value>
+      <webElementGuid>ef0d57ec-ac36-4a70-ad5a-a693081c8322</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

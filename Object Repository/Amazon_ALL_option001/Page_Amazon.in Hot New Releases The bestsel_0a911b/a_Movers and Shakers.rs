@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Movers and Shakers</name>
+   <tag></tag>
+   <elementGuidId>3751cf1d-4be7-4c83-ac78-455e04d57336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.hmenu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2d452c6-3849-482a-ba5b-37a15b2ee739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4</value>
+      <webElementGuid>124986f2-a519-401c-bed4-35ad5284f776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>6667852d-f276-441e-b395-0612f5704638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movers and Shakers</value>
+      <webElementGuid>c31c315c-7b0d-40f5-ba0d-e74ddd1c4dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[4]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>9ae531cd-ce5f-430f-9873-f3e16f8f820b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[4]/a</value>
+      <webElementGuid>1b73009b-eed7-4e59-9c79-16c0c9623dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Movers and Shakers')])[2]</value>
+      <webElementGuid>7ff87d36-27da-4408-8a1e-bee08f65f774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4')]</value>
+      <webElementGuid>a1156897-0231-42e7-940a-b64aa6ab2d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>1581c4b3-6b36-47c6-9bf1-8cff4a5491e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4' and (text() = 'Movers and Shakers' or . = 'Movers and Shakers')]</value>
+      <webElementGuid>d69ae178-f559-4be5-88c3-618150e7a728</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

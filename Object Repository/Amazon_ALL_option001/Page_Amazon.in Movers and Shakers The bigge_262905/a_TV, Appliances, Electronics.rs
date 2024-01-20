@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TV, Appliances, Electronics</name>
+   <tag></tag>
+   <elementGuidId>593042af-364b-4fd9-a07a-78bdcaf21ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[16]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(16) > a.hmenu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09844e5e-46f3-4040-a260-ec8e0e8a7a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>21d222a3-9bf3-4b79-b4dc-77e01235293e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu-id</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>15ab543f-a8f3-4719-ab59-65fa7829e1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref-tag</name>
+      <type>Main</type>
+      <value>nav_em_1_1_1_14</value>
+      <webElementGuid>c978484e-31db-4bc8-a1b9-d4ef620566c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TV, Appliances, Electronics</value>
+      <webElementGuid>50e86235-23d5-40d6-8745-ab55b1fcd03d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible hmenu-translateX&quot;]/li[16]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>7b85612f-1fb5-41f6-8a37-aec092cd2c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[16]/a</value>
+      <webElementGuid>8e888384-d6b3-4c7a-a9d8-23d224e71394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[345]</value>
+      <webElementGuid>3ca8a49f-b1ad-4130-977a-34ac350db53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[16]/a</value>
+      <webElementGuid>23eb2a90-3e6a-4b4b-8461-7e128bd42213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'TV, Appliances, Electronics' or . = 'TV, Appliances, Electronics')]</value>
+      <webElementGuid>a1661524-e2a3-474f-b0ff-dd9f99435a6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

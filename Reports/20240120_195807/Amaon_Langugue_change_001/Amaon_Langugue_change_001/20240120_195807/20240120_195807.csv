@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amaon_Langugue_change_001,Chrome 120.0.0.0,,,20-01-2024 19:58:11,20-01-2024 19:59:17,1m - 5.859s,FAILED
+,,,,,,,
+Test Cases/Amaon_Langugue_change_001/Amaon_Langugue_change_001,Chrome 120.0.0.0,,,20-01-2024 19:58:12,20-01-2024 19:59:17,1m - 5.679s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 19:58:12,20-01-2024 19:58:14,2.368s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 19:58:14,20-01-2024 19:58:21,6.951s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 120.0.0.0,,,20-01-2024 19:58:21,20-01-2024 19:58:23,2.013s,PASSED
+"setText(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Amazon Sign In/input_email""), ""9014256112"")",Chrome 120.0.0.0,,,20-01-2024 19:58:23,20-01-2024 19:58:25,1.678s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,20-01-2024 19:58:25,20-01-2024 19:58:27,2.115s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Amazon Sign In/input_password""), ""1Jx5G2o+w9Dv6alJbP1y5w=="")",Chrome 120.0.0.0,,,20-01-2024 19:58:27,20-01-2024 19:58:28,1.121s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,20-01-2024 19:58:28,20-01-2024 19:58:29,0.409s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Online Shopping site in India Shop Onl_10c5f3/span_nav-icon nav-arrow""))",Chrome 120.0.0.0,,,20-01-2024 19:58:29,20-01-2024 19:58:33,4.876s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:33,20-01-2024 19:58:36,3.061s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:36,20-01-2024 19:58:37,0.965s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:37,20-01-2024 19:58:38,0.313s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:38,20-01-2024 19:58:38,0.362s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:38,20-01-2024 19:58:39,0.386s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:39,20-01-2024 19:58:39,0.368s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:39,20-01-2024 19:58:39,0.377s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:39,20-01-2024 19:58:40,0.349s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:40,20-01-2024 19:58:40,0.455s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_Change Language Settings/input_a-button-input""))",Chrome 120.0.0.0,,,20-01-2024 19:58:40,20-01-2024 19:58:41,0.521s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_, , ,    - Amazon.in/span_nav-icon nav-arrow""))",Chrome 120.0.0.0,,,20-01-2024 19:58:41,20-01-2024 19:58:44,3.662s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_/i_a-icon a-icon-radio""))",Chrome 120.0.0.0,,,20-01-2024 19:58:44,20-01-2024 19:58:46,1.571s,PASSED
+"click(findTestObject(""Object Repository/Amaon_Langugue_change_001/Page_/input_a-button-input""))",Chrome 120.0.0.0,,,20-01-2024 19:58:46,20-01-2024 19:59:17,31.470s,FAILED

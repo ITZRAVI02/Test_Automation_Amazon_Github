@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_coustomer_support,Chrome 120.0.0.0,,,20-01-2024 22:06:27,20-01-2024 22:07:02,35.403s,PASSED
+,,,,,,,
+Test Cases/Amazon_coustomer_support/Amazon_coustomer_support,Chrome 120.0.0.0,,,20-01-2024 22:06:27,20-01-2024 22:07:02,35.157s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,20-01-2024 22:06:28,20-01-2024 22:06:30,2.346s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,20-01-2024 22:06:30,20-01-2024 22:06:36,6.057s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 120.0.0.0,,,20-01-2024 22:06:36,20-01-2024 22:06:39,2.634s,PASSED
+"setText(findTestObject(""Object Repository/Page_Amazon Sign In/input_email""), ""9014256112"")",Chrome 120.0.0.0,,,20-01-2024 22:06:39,20-01-2024 22:06:41,2.496s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon Sign In/inputcontinue""))",Chrome 120.0.0.0,,,20-01-2024 22:06:41,20-01-2024 22:06:44,2.676s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Amazon Sign In/input_password""), ""1Jx5G2o+w9Dv6alJbP1y5w=="")",Chrome 120.0.0.0,,,20-01-2024 22:06:44,20-01-2024 22:06:45,1.210s,PASSED
+"click(findTestObject(""Object Repository/Page_Amazon Sign In/inputsignInSubmit""))",Chrome 120.0.0.0,,,20-01-2024 22:06:45,20-01-2024 22:06:46,0.590s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/i_hm-icon nav-sprite""))",Chrome 120.0.0.0,,,20-01-2024 22:06:46,20-01-2024 22:06:51,5.281s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_Customer Service""))",Chrome 120.0.0.0,,,20-01-2024 22:06:51,20-01-2024 22:06:54,3.432s,PASSED
+"click(findTestObject(""Object Repository/Page_Help - Amazon Customer Service/li_Track packages""))",Chrome 120.0.0.0,,,20-01-2024 22:06:54,20-01-2024 22:07:01,6.840s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,20-01-2024 22:07:01,20-01-2024 22:07:02,1.253s,PASSED
