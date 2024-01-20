@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Other issues with Sign-In</name>
+   <tag></tag>
+   <elementGuidId>3e5c8af1-62b4-4cf1-bb01-4a8df3a60a93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ap-other-signin-issues-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ap-other-signin-issues-link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c03f5d3a-bc60-4360-af9b-fc3cc74d7bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ap-other-signin-issues-link</value>
+      <webElementGuid>ae27342d-37dd-4020-bb37-0c559ec1ac50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>6df8435a-0507-41d7-8532-c0a0758fe222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8</value>
+      <webElementGuid>639c2aee-6a90-47ac-9c3b-1fb8e24c5046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Other issues with Sign-In
+      </value>
+      <webElementGuid>94a95856-20b1-4c55-8f21-67c9f3367317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ap-other-signin-issues-link&quot;)</value>
+      <webElementGuid>a5aba4c1-0074-4933-9851-49480d13ccdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ap-other-signin-issues-link']</value>
+      <webElementGuid>34d753d7-f536-488f-8264-a40f7de80104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div[2]/div/form/div/div/div/div[3]/div/div[2]/a</value>
+      <webElementGuid>7a2b0103-970b-43a1-a238-871bbe6427fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Other issues with Sign-In')]</value>
+      <webElementGuid>b4d6913c-c241-4ffb-86d9-adb58ada0ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8')]</value>
+      <webElementGuid>3414e53f-3eba-44bb-8eaa-8be3f4d0ebfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>9d42f22b-a544-49ea-b402-2539427fdf43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ap-other-signin-issues-link' and @href = '/gp/help/customer/account-issues/ref=ap_login_with_otp_claim_collection?ie=UTF8' and (text() = '
+        Other issues with Sign-In
+      ' or . = '
+        Other issues with Sign-In
+      ')]</value>
+      <webElementGuid>f489ff91-4ec3-4410-a6f8-018da4170f8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

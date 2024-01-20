@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Your Account</name>
+   <tag></tag>
+   <elementGuidId>a951a93c-b7b0-4c00-a131-ca33e736875b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/section/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-link-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fcf894f-42f6-423a-9a47-e5eae1c5f8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>c2d8282f-165a-47ba-8ddf-3342639a88cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/your-account/ref=ppx_yo2ov_dt_b_ya_link</value>
+      <webElementGuid>d86f5405-b349-4997-946d-797e8856fbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Account</value>
+      <webElementGuid>c4de4331-d1b4-4264-8ea4-6991e197a69b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/section[@class=&quot;your-orders-content-container aok-relative js-yo-container&quot;]/div[@class=&quot;your-orders-content-container__content js-yo-main-content&quot;]/div[@class=&quot;a-section a-spacing-medium a-spacing-top-small&quot;]/ul[@class=&quot;breadcrumbs&quot;]/li[@class=&quot;breadcrumbs__crumb&quot;]/a[@class=&quot;a-link-normal&quot;]</value>
+      <webElementGuid>79fb8339-a2ee-4d06-b99c-9a83337510ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/section/div/div/ul/li/a</value>
+      <webElementGuid>c16c85ce-625a-436f-9c0b-f17409b8ada2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Your Account')]</value>
+      <webElementGuid>2c92def3-f385-46cd-a02b-44652bd662ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/your-account/ref=ppx_yo2ov_dt_b_ya_link')]</value>
+      <webElementGuid>12ab00c3-8f28-4d23-ba8d-40ff7f5f242f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>96ea9d38-4fa9-410a-9bd8-1f5aa1b6da7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/your-account/ref=ppx_yo2ov_dt_b_ya_link' and (text() = 'Your Account' or . = 'Your Account')]</value>
+      <webElementGuid>bfd59fd7-48bf-4d1e-892b-bbb023c1acf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

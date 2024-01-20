@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Customer Service</name>
+   <tag></tag>
+   <elementGuidId>865b1a61-c6b4-411f-be5f-fbe04c26cf2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[31]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(31) > a.hmenu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ad4e635-bbe9-43d7-a710-9adee762ad54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_em_cs_help_0_1_1_38</value>
+      <webElementGuid>acc5027c-7c80-4ddf-8dc3-b25f7fefede9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>d414c2a4-684b-4ffc-b0ea-c05666e64240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Service</value>
+      <webElementGuid>06cec541-219c-4ec3-b945-aebeccf4ba1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[31]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>345ffa01-1adc-4d65-abd0-83d81beb77a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[31]/a</value>
+      <webElementGuid>831e4ddd-5988-48cf-999c-8803b4956c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Customer Service')])[2]</value>
+      <webElementGuid>602116c2-7cb2-4244-a234-c334cd2434b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_em_cs_help_0_1_1_38')]</value>
+      <webElementGuid>4577dba5-6148-4042-8321-0cbb60c34eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[31]/a</value>
+      <webElementGuid>9d76a23f-fdbf-483c-866b-cdd8c1243f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/help/customer/display.html?nodeId=508510&amp;ref_=nav_em_cs_help_0_1_1_38' and (text() = 'Customer Service' or . = 'Customer Service')]</value>
+      <webElementGuid>a96bbeb3-281a-480d-82bb-217004fa7e47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

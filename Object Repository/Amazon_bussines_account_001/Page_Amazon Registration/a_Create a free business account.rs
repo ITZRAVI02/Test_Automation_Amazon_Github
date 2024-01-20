@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create a free business account</name>
+   <tag></tag>
+   <elementGuidId>ef50903e-7129-4b00-8e97-bd77c3e78e71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ab-enhanced-registration-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ab-enhanced-registration-link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1086324d-c03f-4e35-af22-9829339ea3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ab-enhanced-registration-link</value>
+      <webElementGuid>ae3d34c7-09f9-420c-a7e2-4ae6b9a786a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>0e43dfd0-4a0d-4f3f-81e4-af42eae39c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.in/business/register/org/landing?ref_=ap_altreg_ab</value>
+      <webElementGuid>2adc802d-2200-4a93-8232-445d524c71d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Create a free business account
+        </value>
+      <webElementGuid>9499504f-6373-47ff-b387-e50cd7999ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ab-enhanced-registration-link&quot;)</value>
+      <webElementGuid>4a0f16ea-d09b-437d-90e7-0f559af6b278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ab-enhanced-registration-link']</value>
+      <webElementGuid>a2e7bf52-6a7a-4511-8f70-870277764e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ap_register_form']/div/div/div[8]/div/a</value>
+      <webElementGuid>5cbefddf-2b12-44e5-b99b-1a8490c961cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create a free business account')]</value>
+      <webElementGuid>8035142e-67b7-4980-9b3e-3e1332349afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.in/business/register/org/landing?ref_=ap_altreg_ab')]</value>
+      <webElementGuid>5858eb70-9dbd-4f4e-bd69-b3300eb60004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/a</value>
+      <webElementGuid>c6c72113-3c1d-47d0-8f2a-2990ea503bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ab-enhanced-registration-link' and @href = 'https://www.amazon.in/business/register/org/landing?ref_=ap_altreg_ab' and (text() = '
+            Create a free business account
+        ' or . = '
+            Create a free business account
+        ')]</value>
+      <webElementGuid>5bec1eb8-b74e-4633-b022-a8646489d28c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
