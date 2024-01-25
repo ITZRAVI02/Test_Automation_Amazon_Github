@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_nav-sprite hmenu-close-icon</name>
+   <tag></tag>
+   <elementGuidId>eac5eab7-b070-4012-90ba-c6e1f7c05843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-sprite.hmenu-close-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-canvas-background']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d580137-1491-4b69-8851-957cc02a8d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sprite hmenu-close-icon</value>
+      <webElementGuid>4377a4ed-c87e-46c2-9e5c-00007d347b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-canvas-background&quot;)/div[@class=&quot;nav-sprite hmenu-close-icon&quot;]</value>
+      <webElementGuid>a3ed3ecf-29ab-4555-a68b-8d1297515651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-canvas-background']/div</value>
+      <webElementGuid>6f7950c2-532b-4bcd-8ba5-8185ce7cc431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>e80ce2fe-6fda-4b6b-ab90-9474aae1c337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

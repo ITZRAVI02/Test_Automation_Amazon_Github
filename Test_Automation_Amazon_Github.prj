@@ -4,9 +4,10 @@
    <name>Test_Automation_Amazon_Github</name>
    <tag></tag>
    <UUID>b201d660-b218-4023-9a2f-f85b0310d26c</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Hello\git\Test_Automation_Amazon_Github\Test_Automation_Amazon_Github.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

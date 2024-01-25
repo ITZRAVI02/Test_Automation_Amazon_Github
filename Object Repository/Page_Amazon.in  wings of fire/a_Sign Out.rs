@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>0fa94c13-b167-4516-82f0-92ae8701e5a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(31) > a.hmenu-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&amp;path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;ref_=nav_em_signout_0_1_1_37', 'nav_em_hd_clc_signin_0_1_1_37')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e72d164f-8553-4be4-bb30-ce77481b522f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>d34ab797-43bb-439d-ab37-37602f81d772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>514bf436-6960-44e3-8f80-92d0917d4491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&amp;path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;ref_=nav_em_signout_0_1_1_37', 'nav_em_hd_clc_signin_0_1_1_37')</value>
+      <webElementGuid>48c5c646-d2e5-4354-a1f1-36d056227fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>5350bc00-3af3-4ce3-89b2-bda748652185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[31]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>98b83d71-a782-457d-8c78-e504f3ba1850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&amp;path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;ref_=nav_em_signout_0_1_1_37', 'nav_em_hd_clc_signin_0_1_1_37')&quot;]</value>
+      <webElementGuid>0aca6bab-aaca-4960-afe7-66018a4ce5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[31]/a</value>
+      <webElementGuid>68cb0c85-fe35-48c1-b6bd-20410ae47492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Sign Out')])[2]</value>
+      <webElementGuid>3d4def20-773d-4428-82e5-07cceacf8186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[38]</value>
+      <webElementGuid>1eb4abca-e86b-4264-ad5c-4d54dfa6071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[31]/a</value>
+      <webElementGuid>5f714dba-08bc-4b2a-a46d-8129ea8ed246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>46e67b12-943f-4170-91c3-870d115d644c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;$Nav.getNow('signInRedirect')('nav_em_hd_re_signin', '/gp/flex/sign-out.html?action=sign-out&amp;path=%2Fgp%2Fhomepage.html%3F_encoding%3DUTF8%26ref_%3Dnavm_em_signin&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;ref_=nav_em_signout_0_1_1_38', 'nav_em_hd_clc_signin_0_1_1_38')&quot;]</value>
+      <webElementGuid>d60d1fe8-2f56-4fbb-bbb0-7cbcfaa00a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[32]/a</value>
+      <webElementGuid>e4387334-89c2-4bbc-8173-25b090cb4bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[37]</value>
+      <webElementGuid>231f3b41-0b05-44f8-ab8a-fa0f47c423fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[32]/a</value>
+      <webElementGuid>4697f46d-824b-44ed-89ae-d9471a442424</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Orders</name>
+   <tag></tag>
+   <elementGuidId>a6e283f1-b4eb-44ea-b6b2-620501357d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-orders > span.nav-line-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-orders']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>079643ba-4eb5-4ae4-9a10-5fdbb5be80a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-2</value>
+      <webElementGuid>d1577693-78f1-41a8-9b99-9faca8879ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&amp; Orders</value>
+      <webElementGuid>f2ec07e0-8dfe-4d35-b741-c25d1ebc8598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-orders&quot;)/span[@class=&quot;nav-line-2&quot;]</value>
+      <webElementGuid>7d45061a-0988-4bb1-a782-0ea87b1fad5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-orders']/span[2]</value>
+      <webElementGuid>86dbc7b4-005f-49c3-a52c-ef3d859a45cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span[2]</value>
+      <webElementGuid>e1c329be-becf-4aa9-8a42-b98a41e008e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&amp; Orders' or . = '&amp; Orders')]</value>
+      <webElementGuid>83594354-5225-4a24-8571-b96c216cd2dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

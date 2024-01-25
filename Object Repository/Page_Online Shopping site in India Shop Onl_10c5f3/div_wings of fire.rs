@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_wings of fire</name>
+   <tag></tag>
+   <elementGuidId>0bfce4e1-7155-49e9-af2b-59e320cdefb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.s-suggestion.s-suggestion-ellipsis-direction</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>099316f5-289b-4b85-898a-4ae19d9186c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-suggestion s-suggestion-ellipsis-direction</value>
+      <webElementGuid>21977ca9-523d-45bd-8025-b4c6925d084a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>115e6d64-424f-4c61-ba6b-3e15a85cdbd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>wings of fire</value>
+      <webElementGuid>e8233285-ed3f-4dd9-89dd-67cf1aecb2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>wings of fire</value>
+      <webElementGuid>e5ff9e66-9a44-4353-95d0-0bdcc2e0af14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-searchAjax&quot;)/div[@class=&quot;autocomplete-results-container&quot;]/div[@class=&quot;two-pane-results-container&quot;]/div[@class=&quot;left-pane-results-container&quot;]/div[1]/div[@class=&quot;s-suggestion-container&quot;]/div[@class=&quot;s-suggestion s-suggestion-ellipsis-direction&quot;]</value>
+      <webElementGuid>85ff4b3d-ed3d-446f-a602-08c7d908848a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>ef8c95e6-9dae-4bae-8479-f6b8a5563cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>58fc5ca9-d27b-492c-bca5-abb996b79fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'wings of fire' or . = 'wings of fire')]</value>
+      <webElementGuid>04eaada8-af67-4188-abf7-a4d764338a2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

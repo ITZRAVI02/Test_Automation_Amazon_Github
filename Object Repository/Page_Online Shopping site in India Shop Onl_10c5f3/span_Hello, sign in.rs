@@ -6,12 +6,12 @@
    <elementGuidId>204d2b7b-800b-45be-a756-94d29abd6e5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#nav-link-accountList-nav-line-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9a4f28c5-9cbc-4ac7-b7a6-a3caaf421281</webElementGuid>
+      <webElementGuid>d9ccfb01-8081-43e7-8b29-f9222c766553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nav-link-accountList-nav-line-1</value>
-      <webElementGuid>c4e49afa-593d-429d-bdde-1f67c23ecd20</webElementGuid>
+      <webElementGuid>07b8d7da-51d7-4323-9d8f-dffac8f88c07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-line-1 nav-progressive-content</value>
-      <webElementGuid>236b85e3-c547-44f2-b58f-9de3faf82d41</webElementGuid>
+      <webElementGuid>101db318-0ddf-4530-b95c-59c8a9b1ddf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hello, sign in</value>
-      <webElementGuid>ce1b2a02-4e3f-4803-984a-e58821a8b747</webElementGuid>
+      <webElementGuid>54562cdb-3977-41dd-91bd-36dc6d8e954a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-link-accountList-nav-line-1&quot;)</value>
-      <webElementGuid>619d2b05-4664-4bde-9238-a7cb8b9c427c</webElementGuid>
+      <webElementGuid>758f44a6-fc1b-4748-9e3f-3a2a750a0af5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='nav-link-accountList-nav-line-1']</value>
-      <webElementGuid>904bc08c-6169-4a07-a1de-a9756abb7567</webElementGuid>
+      <webElementGuid>c5b297cb-8662-4771-8958-61ec620aa92e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='nav-link-accountList']/div/span</value>
-      <webElementGuid>7b7208e3-6241-4189-8441-34ef6f2319fe</webElementGuid>
+      <webElementGuid>20961404-1cbd-412d-a865-4bbb318ec756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div/span</value>
-      <webElementGuid>3dbe6884-42ee-4de0-b4ba-d76f0b86ef79</webElementGuid>
+      <webElementGuid>5e311fbf-7122-467f-ab98-29edd4d489d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
-      <webElementGuid>eb708e30-858f-4413-b230-1f6d6767ff28</webElementGuid>
+      <webElementGuid>f4c10fe6-0c64-4153-bbf8-c4f035a2680e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
